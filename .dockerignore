@@ -1,0 +1,15 @@
+# Byte‐compiled / caches
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+
+# Env files & local settings
+.env
+config/*.env
+
+# Docker build artifacts
+*.pyc
+*.pyo
+*.pyd
